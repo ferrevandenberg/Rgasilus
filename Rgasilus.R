@@ -6,7 +6,7 @@
         #The script outputs the species of the database that is most similar to the unknown copepod, the amount of differences between them, as well as a comparative dataframe. 
         #If there are multiple species with the same amount of similarities, it will output all of them.
         #As many species can be added in the database as needed, as long as the correct format is maintained.
-        #NOTE: verify whether all the desired species are in the database!
+        #NOTE: verify whether all the species are in the database that you wish to compare with, and that it is up to date!
         #The script gives examples of how the code works, and indicates what parts of the code should be changed according to your findings.
 #Author: This script was written by Ferre Vandenberg.
 
